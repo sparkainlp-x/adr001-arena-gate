@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: adr001-arena-gate
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+    affiliation: Spark AI NLP, Fredericton, New Brunswick, Canada
+version: 0.1.0
+date-released: 2026-10-30
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x/adr001-arena-gate
+abstract: >-
+  ADR-001 max-abs residual swapped into the membrane arena's guard:
+  stock full-matrix max-abs vs ADR-001 diagonal (population) max-abs
+  on seeds 0-19, dt 0.01/0.05, legacy vs exact operator modes, with
+  survival and acceptance deltas. Classical synthetic toy; no
+  quantum-hardware, medical, brain, or consciousness claim. Mun Seok
+  Lee is cited as inspiration only for the Digital to Wave paradigm.
+keywords:
+  - ADR-001
+  - OES-32 residual
+  - membrane arena
+  - guard
+  - synthetic toy
